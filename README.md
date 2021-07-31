@@ -1,8 +1,8 @@
 Wenn der Teil der Website fertig ist, dann: "done" runterschreiben.
 
-# Main Website
+// Main Website
 
-# Wir 
+// Wir 
 
 1. Lehrerkollegium 
 
