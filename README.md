@@ -1,6 +1,6 @@
-Wenn der Teil der Website fertig ist, dann: "done" runterschreiben.
+Wenn der Teil der Website fertig ist, dann: "done" runterschreiben. // = Hauptpunkt | 1; 2; 3; = Unterpunkt
 
-// Main Website
+// Home Website
 
 // Wir 
 
@@ -21,3 +21,11 @@ Wenn der Teil der Website fertig ist, dann: "done" runterschreiben.
 8. Schulverein
 
 9. Ehemalige
+
+// Unsere Schule
+
+1. Geschichte des MDGs
+
+2. Marion Dönhoff
+
+3. Schüler*innen stellen das MDG vor
