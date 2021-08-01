@@ -1,8 +1,8 @@
-# Wichtig
+# Wichtig!
 
 Wenn der Teil der Website fertig ist, dann mit bitte "= done" makieren. // = Hauptpunkt | 1; 2; 3; = Unterpunkt | 4.1; 4.2; 4.3; = weiterer Unterpunkt 
 
-Wenn man gerade an einem Teil arbeitet dann bitte mit "= working"
+Wenn man gerade an einem Teil arbeitet dann bitte mit "= working" makieren.
 
 // Start Website
 
@@ -159,16 +159,3 @@ Wenn man gerade an einem Teil arbeitet dann bitte mit "= working"
   5. Schülerzeitung 2.0
 
 // Suchfunktion
-
-
-
-
-
-
-
-
-
-
-
-  
-
