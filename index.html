@@ -5,12 +5,14 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="with=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="main.js"></script>
     </head>
-    <body>
+    <body onload="mobile_resize()">
+
         <header>
-            <nav>
-                <div class="image-container">
-                    <img src="MDG-Logo.png">
+            <nav class="navbar">
+                <div class="image_container">
+                    <a href="https://www.marion-doenhoff.gymnasium.de"><img src="MDG-Logo.png"></a>
                 </div>
                 <ul>
                     <li><a href="">Wir</a></li>
@@ -23,11 +25,36 @@
                 </ul>
             </nav>
         </header>
-        <main>
-
+        <div class="post_header">
+            <img class="background_image" src="125_jahre_background.jpg">
+            <div class="post_header_news">
+                <h1>News Title</h1>
+                <p>News Text Lorem Ipsum Deine Mom Kennt Obama's Nachnamen er Lautet: I forgor</p>
+                <ul><li>News list item</li></ul>
+                <a href="#">Clickable news link item</a>
+            </div>
+        </div>
+        <main id="main_resizable" name="TOP">
+            <h1>Startseite</h1>
+            <h2>Warum das Marion Dönhoff Gymnasium?</h2>
+            <ul><li>Hohe Partizipartion von Schülern, Eltern und Lehrern</li></ul>
+            <h2>MDG Schulbrief</h2>
         </main>
-        <footer>
-
+        <div class="footer_top_bar">
+            <br>
+        </div>
+        <footer><center>
+            <br>
+            <div class="back_to_top">
+                <h2><a href="#TOP">Nach Oben</a></h2>
+            </div>
+            <hr>
+            <h1>Ausgezeichnet als</h1>
+            <img src="media/sor_smc.jpg" width="300px" style="padding: 25px;">
+            </center>
+            <div class="footer_info_items">
+                <p> © 2020 Marion Dönhoff Gymnasium Hamburg</p>                
+            </div>
         </footer>
     </body>
 </html>
