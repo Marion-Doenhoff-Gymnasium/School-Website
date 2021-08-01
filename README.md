@@ -1,6 +1,6 @@
 # Wichtig
 
-Wenn der Teil der Website fertig ist, dann mit "= done" makieren. // = Hauptpunkt | 1; 2; 3; = Unterpunkt | 4.1; 4.2; 4.3; = weiterer Unterpunkt 
+Wenn der Teil der Website fertig ist, dann mit bitte "= done" makieren. // = Hauptpunkt | 1; 2; 3; = Unterpunkt | 4.1; 4.2; 4.3; = weiterer Unterpunkt 
 Wenn man gerade an einem Teil arbeitet dann bitte mit "= working"
 
 // Start Website
@@ -89,11 +89,53 @@ Wenn man gerade an einem Teil arbeitet dann bitte mit "= working"
 
 // Fächer
 
-  1.
+  1. Ästhetische Fächer
+
+    1.1 Bildene Kunst
+    
+    1.2 Musik
+    
+    1.3 Theater
   
-  2.
+  2. Gesellschaftswissen
+
+    2.1 Geographie 
+    
+    2.2 Geschichte
+    
+    2.3 PGW
+    
+    2.4 Philosophie
+    
+    2.5 Religion
   
-  3.
+  3. Mathematik & Naturwissenschaften
+  
+    3.1 Mathematik
+    
+    3.2 Biologie
+    
+    3.3 Chemie
+    
+    3.4 Physik
+    
+    3.5 Informatik
+    
+    3.6 Natur und Technik
+  
+  4. Sprachen
+
+    4.1 Deutsch
+    
+    4.2 Latein
+    
+    4.3 Englisch
+    
+    4.4 Französisch
+    
+    4.5 Spanisch
+  
+  5. Sport
   
 // News & Events
 
@@ -115,6 +157,7 @@ Wenn man gerade an einem Teil arbeitet dann bitte mit "= working"
   
   5. Schülerzeitung 2.0
 
+// Suchfunktion
 
 
 
