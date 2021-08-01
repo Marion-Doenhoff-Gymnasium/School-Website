@@ -14,7 +14,7 @@ Wenn man gerade an einem Teil arbeitet dann bitte mit "= working" makieren.
 
   3. Elternrat
 
-  4. Schülervertretung: 
+  4. Schülervertretung
    
     4.1 Schülerrat 
   
