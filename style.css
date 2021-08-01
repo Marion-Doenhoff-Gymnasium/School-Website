@@ -108,10 +108,26 @@ p {
 .post_header_news ul li {
     margin-left: 25px;
 }
-main h1 {
-    font-size: x-large;
-    padding: 25px 25px 25px 10%;
+.mdg-oscars-logo{
+    margin-left: -20px;
+    height: 150px;
+    width: 150px;
+}
+.infos-container{
     background-color: #e5e2e2;
+}
+.infos-headline{
+    font-size: 15px;
+    color: #203474;
+    padding: 25px 25px 25px 10%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.infos-text{
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 main h2 {
     margin-left: 10%;
@@ -138,6 +154,9 @@ footer h1 {
 .back_to_top {
     margin-top: 10px;
     margin-bottom: 30px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 .back_to_top a {
     padding: 5px;
@@ -147,7 +166,13 @@ footer h1 {
 .back_to_top a:hover {
     border: 2px solid white;
 }
-
+.shool-award{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
 .footer_info_items {
-    margin-left: 25%;
+    display: grid;
+    justify-content: center;
+    align-items: center;  
 }
