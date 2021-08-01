@@ -26,7 +26,7 @@ nav {
     background-color: #1f3270;
     line-height: 75px;
     padding: 0 100px;
-    position:fixed;
+    position: fixed;
     z-index: 1;
     overflow: hidden;
     top: 0;
@@ -113,20 +113,36 @@ p {
     width: 150px;
 }
 .infos_container{
-    background-color: #e5e2e2;
+    background-color: lightgray;
+    top: auto;
+    margin-top: -101px;
+    margin-bottom: 101px;
+    display: inline-block;
+    position: absolute;
+    padding: 10px;
 }
-.infos_headline{
-    font-size: 15px;
-    color: #203474;
-    padding: 25px 25px 25px 10%;
-    display: grid;
-    justify-content: center;
-    align-items: center;
+.infos_container a {
+    color: black;
 }
-.infos_text{
-    display: grid;
-    justify-content: center;
-    align-items: center;
+.infos_container h1 {
+    color: #1f3270;
+}
+.info_container1 {
+    margin-left: 12.5%;
+    float: left;
+    width: 25%;
+    position: relative;
+}
+.info_container2 {
+    float: left;
+    width: 25%;
+    position: relative;
+    align-self: center;
+}
+.info_container3 {
+    float: left;
+    width: 25%;
+    position: relative;
 }
 main h2 {
     margin-left: 10%;
