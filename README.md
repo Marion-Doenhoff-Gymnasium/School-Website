@@ -4,7 +4,7 @@ Wenn der Teil der Website fertig ist, dann mit bitte "= done" makieren. // = Hau
 
 Wenn man gerade an einem Teil arbeitet dann bitte mit "= working" makieren.
 
-// Start Website
+// Start Website = working
 
 // Wir 
 
